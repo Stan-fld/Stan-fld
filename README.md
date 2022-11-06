@@ -20,7 +20,7 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Stan-fld&show_icons=true&theme=calm&border_radius=6)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Stan-fld&layout=compact&theme=calm&border_radius=6&card_width=445)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Stan-fld&layout=compact&theme=calm&hide=css&border_radius=6&card_width=445)](https://github.com/anuraghazra/github-readme-stats)
 <!--
 
 **Stan-fld/Stan-fld** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
